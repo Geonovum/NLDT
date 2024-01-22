@@ -43,8 +43,25 @@ Belangrijk bij de Metedata is dat we verwijzen *waar* we de data kunnen vinden (
 
 ### Catalogus
 
-De catalogus speelt een belangrijke rol in het geheel. De Catalogus is de beheerder van de metadata
+De catalogus speelt een belangrijke rol in het geheel. De Catalogus is de beheerder/verzamelaar van de metadata en laat toe dat er in de metadata wordt gezocht.
+
+![Screenshot 2024-01-22 134850](https://github.com/Geonovum/DTaaS/assets/4082369/8ed8ad7c-e2fa-4681-bc99-51a3e8feb33b)
+
+![Screenshot 2024-01-22 135242](https://github.com/Geonovum/DTaaS/assets/4082369/ff27afa1-6a25-4b68-85fa-1bc2d3079a54)
 
 ## Mensen en Organisatie
 
-## Processen
+De bovengenoemde concepten (Metadata, Catalogus, WebService) moet binnen de organisatie landen. En ook het personeel (1) moet begrijpen wat ze zijn, hoe ze ingezet worden, wat ze kunnen, hoe je ze onderhoudt. Dit is geen simpele opgave. In vele gevallen is het er 'een werk erbij', waarvoor en amper beloning bestaat. Dat laatste moet omgekeerd worden.
+
+(1) Alle mensen binnen de gemeente en provicnie, van ICTers, gebruikers, data makers, etc moeten doordrongen worden met deze gedachten. Zodat iedereen begrijpt waarom we het doen.
+
+De organisatie moet doordrongen zijn waarom we data willen delen, waarom we het goed moeten doen - en - wat het vooral niet is (een pdf via email sturen is niet data delen).
+
+## Processen en Mensen
+
+De huidige processen zullen waarschijnlijk moeten aangepast worden om 'data te laten stromen via het web'. 
+We kijken eerst zoals het nu gaat, nemen 2 a 3 voorbeeld datasets en gaan die als verander voorbeeld nemen. 
+
+Formele processen worden in de deze fase niet aangepast, maar we markeren wel veranderingen in de processen voor de toekomst. We kijken ook naar nieuwe rollen binnen de organisatie (bv datastewart - iemand die enthousist is om data op order te houden, de kwaliteit ervan te begrijpen en te willen verhogen, de metadata bijhoudt,... - en waardering krijgt binnen de organisatie)
+
+Let op: eerst begrijpen alvorens begrepen te worden.
