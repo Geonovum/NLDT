@@ -47,7 +47,7 @@ Het opzetten van een Digital Twin (as a Service) kan zowel bedreigend als ontmoe
 Items van hierboven komen uit https://nl.wikipedia.org/wiki/FAIR-principes
 
 ### Popit
-POPIT (People, Objectives, Processes, Information, and Technology) is een model dat een holistische kijk geeft op een bedrijfssysteem door rekening te houden met vijf belangrijke elementen.
+`POPIT` (People, Objectives, Processes, Information, and Technology) is een model dat een holistische kijk geeft op een bedrijfssysteem door rekening te houden met vijf belangrijke elementen.
 
 #### Mensen:
 Dit element richt zich op de mensen die betrokken zijn bij het bedrijfssysteem, inclusief werknemers, klanten en belanghebbenden. Hebben ze de vereiste vaardigheden en ondersteuning om het werk uit te voeren? Hoe gemotiveerd zijn ze? Begrijpen ze de bedrijfsdoelstellingen die ze moeten ondersteunen?
