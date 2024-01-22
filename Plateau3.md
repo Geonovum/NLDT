@@ -20,6 +20,13 @@ De meeste 'event' in een Digitale Tweeling komen onaangekondigd - net zoals in h
 
 Daarom het is het noodzakelijk om een Asyncroneous event afhandler te hebben in onze omgeveing - aka een Pub-Sub systeem. Pub-Sub?
 
-### Publish en Subscribe
+## Publish en Subscribe
 
 In softwarearchitectuur is publiceren-abonneren (Publish en Subscribe - aka PubSub) een berichtenpatroon waarbij uitgevers berichten categoriseren in klassen die door abonnees worden ontvangen. Dit staat in contrast met het typische berichtenpatroonmodel waarbij uitgevers berichten rechtstreeks naar abonnees sturen.
+
+## Request en Response
+
+Bij een request/response wordt een request gedaan voor data. Deze vraag komt aan bij de data owner, die op zoek gaat naar de data die gevraagd werd. Dit zou in praktijk kunnen betekenen dat de data owner een vraag van een gebruiker die door middel van een API tot bij hem kwam, via een query opvraagt in zijn database.
+
+Eens de data owner zijn data gevonden heeft, stuurt hij deze terug. Dit is de response.
+
