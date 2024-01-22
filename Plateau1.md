@@ -26,6 +26,8 @@ De Geo wereld heeft reeds bestaande (en welgekende) API's voor het delen van Geo
 
 Maar ook niet-Geo data (een Xls sheet) is prima informatie om via een API te delen (nogmaals: geen gevoelige data, neem die data die reeds open is).
 
+Note: als data op het web ter beschkking wordt gestelt, dan moet die data [uniek identificeerbaar](https://www.geonovum.nl/uploads/documents/20210716%20Geonovum%20Ontwerp%20UOI%20v081%20definitief.pdf) zijn op het web.
+
 ### Metadata
 
 We gebruiken [DCAT](https://www.forumstandaardisatie.nl/open-standaarden/dcat), een welgekend metadata formaat dat gebruikt wordt op verschillende niveaus in Nederland en de ons omringende landen. Denk maar aan [data.overheid.nl](data.overheid.nl) of [data.rotterdam.nl](data.rotterdam.nl) of de [EU data portal](https://data.europa.eu/en).
