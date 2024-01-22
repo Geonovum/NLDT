@@ -7,6 +7,9 @@ Tijd om er wat extra *excitement* in te brengen:
 In het DigiLab gaan we (eenvoudige) 3D data zetten en die met OGC web services ter beschikking stellen aan de Catalogus (en Metadata).
 Mijn voorstel om een bekende 3D dataset te nemen (neem geen dataset die je nog moet gaan ver'tile'n - dat is te moeilijk op dit moment)
 
+### Rekenmodellen
+De Rekenmodule van [Nelen & Schuurman](https://nelen-schuurmans.nl/en/home/) werkt nu al, maar het steeds meer integreren in onze DigiLab omgeving, zodat de interface van hoofdzakelijk mens naar Mens en Machine gaat.
+
 ## 3D Viewer
 Nu we een 3D dataset hebben, willen we visualiseren in een 3D omgeveing.
 Kies een 3D omgeveing waar je ervaring mee hebt en [die je kent](https://www.imagem.nl/digital-twin/3d-city/)  - ken je er geen, dan is [Unreal](https://www.unrealengine.com/en-US) of [Cesium](https://cesium.com/) of [Unity](https://unity.com/) startpunten.
