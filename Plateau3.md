@@ -14,4 +14,4 @@ Asyncroniteit
 
 (bron: Dreamworks Animation Shrek 2, 2004)
 
-Niet meer 'are we there yet' (x1000 en dan 'plop' :-) ), maar "we have arrived"
+Niet meer 'Are we there yet' (100x en dan 'plop' :-) ), maar "we have arrived"
