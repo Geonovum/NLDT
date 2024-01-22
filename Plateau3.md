@@ -15,3 +15,5 @@ Asyncroniteit
 (bron: Dreamworks Animation Shrek 2, 2004)
 
 Niet meer 'Are we there yet' (100x en dan 'plop' :-) ), maar "we have arrived"
+
+De meeste 'event' in een Digitale Tweeling komen onaangekondigd - net zoals in het echte leven. (en liefst op het slechtste moment).
