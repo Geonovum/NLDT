@@ -5,7 +5,7 @@ This repo will contain all the Plateau descriptions to ultimately support the DT
 
 Een Digital Twin is een `container begrip` - het heeft geen strikte definitie, maar bestaat ruwweg uit componenten/mogelijkheden/capabilities:
 - (Geo) & data integration
-- Metadatavan data
+- Metadata van data
 - Catalogi
 - WebServices om gegevens via het web te delen
 - Fast moving sensor data
