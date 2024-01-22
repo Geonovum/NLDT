@@ -73,5 +73,10 @@ Let op: eerst begrijpen alvorens begrepen te worden.
 In het Digilab (een digitale speeltuin) gaan we bovenstaande infrastructuur testen. Dus in het DigiLab draait een Catalogus en wat webservices. Minimale metedata is beschikbaar voor de voorbeelden.
 De minimale set werkt onmiddellijk en staat klaar op het DigiLab.
 
+## Wat is DigiLab
+
+Een Clowdomgeving (Kubesnetes en Docker) waarop software kan gedeployed worden (denk aan de CKAN Catalogus, Docket container met webseervice).
+DigiLab is een niet operationele omgeving en kan op elke moment geresetted worden. Het is een omgeving om te leren en concepten te beproevem.
+
 ## Wie kan erbij?
 We kunnen iedereen op digilab uitnodignen die we willen (incl leveranciers)
