@@ -29,8 +29,8 @@ Het opzetten van een Digital Twin (as a Service) kan zowel bedreigend als ontmoe
 
 #### Toegankelijk
  - A1 (meta)gegevens kunnen worden opgehaald door hun identificatie met behulp van een gestandaardiseerd communicatieprotocol.
- - A1.1 het protocol is open, vrij en universeel implementeerbaar.
- - A1.2 het protocol maakt waar nodig een authenticatie- en autorisatieprocedure mogelijk.
+   - A1.1 het protocol is open, vrij en universeel implementeerbaar.
+   - A1.2 het protocol maakt waar nodig een authenticatie- en autorisatieprocedure mogelijk.
  - A2 metadata zijn toegankelijk, ook als de data niet meer beschikbaar zijn.
 
 #### Interoperabel
