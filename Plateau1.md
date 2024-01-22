@@ -67,3 +67,11 @@ We kijken eerst zoals het nu gaat, nemen 2 a 3 voorbeeld datasets en gaan die al
 Formele processen worden in de deze fase niet aangepast, maar we markeren wel veranderingen in de processen voor de toekomst. We kijken ook naar nieuwe rollen binnen de organisatie (bv datastewart - iemand die enthousist is om data op order te houden, de kwaliteit ervan te begrijpen en te willen verhogen, de metadata bijhoudt,... - en waardering krijgt binnen de organisatie)
 
 Let op: eerst begrijpen alvorens begrepen te worden.
+
+# Digilab
+
+In het Digilab (een digitale speeltuin) gaan we bovenstaande infrastructuur testen. Dus in het DigiLab draait een Catalogus en wat webservices. Minimale metedata is beschikbaar voor de voorbeelden.
+De minimale set werkt onmiddellijk en staat klaar op het DigiLab.
+
+## Wie kan erbij?
+We kunnen iedereen op digilab uitnodignen die we willen (incl leveranciers)
