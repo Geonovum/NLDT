@@ -6,7 +6,7 @@ Het [Nelen en schuurman](https://nelen-schuurmans.nl/en/home/) opnemen in DigiLa
 
 In Plateau 4 willen we modellen aan elkaar te knopen.
 
-## Pub Sub
+## Asyncroniteit
 
 Asyncroniteit
 
@@ -17,3 +17,9 @@ Asyncroniteit
 Niet meer 'Are we there yet' (100x en dan 'plop' :-) ), maar "we have arrived"
 
 De meeste 'event' in een Digitale Tweeling komen onaangekondigd - net zoals in het echte leven. (en liefst op het slechtste moment).
+
+Daarom het is het noodzakelijk om een Asyncroneous event afhandler te hebben in onze omgeveing - aka een Pub-Sub systeem. Pub-Sub?
+
+### Publish en Subscribe
+
+In softwarearchitectuur is publiceren-abonneren (Publish en Subscribe - aka PubSub) een berichtenpatroon waarbij uitgevers berichten categoriseren in klassen die door abonnees worden ontvangen. Dit staat in contrast met het typische berichtenpatroonmodel waarbij uitgevers berichten rechtstreeks naar abonnees sturen.
