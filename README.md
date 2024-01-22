@@ -40,9 +40,9 @@ Het opzetten van een Digital Twin (as a Service) kan zowel bedreigend als ontmoe
 
 #### Herbruikbaar
  - R1 meta(data) hebben meerdere nauwkeurige en relevante attributen.
- - R1.1 (meta)data worden vrijgegeven met een duidelijke en toegankelijke datagebruik licentie.
- - R1.2 (meta)data zijn geassocieerd met hun herkomst.
- - R1.3 (meta)data voldoen aan domeinrelevante gemeenschapsnormen.
+   - R1.1 (meta)data worden vrijgegeven met een duidelijke en toegankelijke datagebruik licentie.
+   - R1.2 (meta)data zijn geassocieerd met hun herkomst.
+   - R1.3 (meta)data voldoen aan domeinrelevante gemeenschapsnormen.
 
 Items van hierboven komen uit https://nl.wikipedia.org/wiki/FAIR-principes
 
