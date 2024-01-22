@@ -63,5 +63,5 @@ Dit element richt zich op de technologie die gebruikt wordt door het bedrijfssys
 ## Plateaus
 In Plateaus gaan we de basis elementen opzetten voor het delen van mijn data voor een Digitale Tweeling. Het zijn ook de basiselementen van de FAIR principes. Plateau 1 zet de basis op, Plateau bouwt er dan weer op voort en zo verder. We bouwen dus stteds op de kennis die we hebben opgedaan in het vorig Plateau.
 
-[Plateau1]()
+[Plateau1](https://github.com/Geonovum/DTaaS/blob/main/Plateau1.md)
 
