@@ -60,6 +60,8 @@ Dit element heeft betrekking op de gegevens en informatie die door het bedrijfss
 #### Technologie: 
 Dit element richt zich op de technologie die gebruikt wordt door het bedrijfssysteem, inclusief hardware, software en netwerksystemen. Ondersteunen de softwareproducten het bedrijf zoals vereist? Zijn ze bruikbaar en toegankelijk? Stellen ze de organisatie in staat om aan de behoeften van medewerkers en klanten te voldoen?
 
-## Plateau 1 
-In Plateau 1 gaan we de basis elementen opzetten voor het delen van mijn data voor een Digitale Tweeling. Het zijn ook de basiselementen van de FAIR principes.
+## Plateaus
+In Plateaus gaan we de basis elementen opzetten voor het delen van mijn data voor een Digitale Tweeling. Het zijn ook de basiselementen van de FAIR principes. Plateau 1 zet de basis op, Plateau bouwt er dan weer op voort en zo verder. We bouwen dus stteds op de kennis die we hebben opgedaan in het vorig Plateau.
+
+[Plateau1]()
 
