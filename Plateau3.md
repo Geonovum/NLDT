@@ -10,6 +10,8 @@ In Plateau 4 willen we modellen aan elkaar te knopen.
 
 Asyncroniteit
 
-![Screenshot 2024-01-22 153008](https://github.com/Geonovum/DTaaS/assets/4082369/ff9b3a8f-9555-468e-9a3e-61d231313cca)
+![Screenshot 2024-01-22 153224](https://github.com/Geonovum/DTaaS/assets/4082369/98531ed2-106c-41be-8d68-a2bd57cba036)
+
+(bron: Dreamworks Animation Shrek 2, 2004)
 
 Niet meer 'are we there yet' (x1000 en dan 'plop' :-) ), maar "we have arrived"
