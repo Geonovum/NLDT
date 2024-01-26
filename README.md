@@ -1,4 +1,4 @@
-# DTAAS Repository
+# DTaaS Repository
 
 ## Introduction
 This repo will contain all the Plateau descriptions to ultimately support the DTaaS idea.
